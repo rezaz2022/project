@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 second file from master      v3
+=======
+second file from master                    v10
+>>>>>>> test
